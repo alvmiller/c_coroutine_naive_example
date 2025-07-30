@@ -24,6 +24,8 @@ https://gist.github.com/lpereira/2154951
 https://dev.to/rdentato/coroutines-in-c-1-2-45ig
 https://dev.to/rdentato/coroutines-in-c-2-3-h0j
 https://dev.to/rdentato/coroutines-in-c-3-3-2ej6
+
+https://en.wikipedia.org/wiki/Setcontext
 */
 
 ////////////////////////////////////////////////////
